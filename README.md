@@ -15,11 +15,11 @@
 
 [2.OSI 7계층](./list/OSI-7계층.md)
 
-[3.REST](./list/REST(Representational State Transfer).md)
+[3.REST](./list/REST.md)
 
 [4.HTTPS란](./list/HTTPS란.md)
 
-[5.HTTP 버전](./list/HTTP 버전.md)
+[5.HTTP 버전](./list/HTTP-버전.md)
 
 
 
