@@ -21,6 +21,8 @@
 
 [5.HTTP 버전](./list/HTTP-버전.md)
 
+[6.CORS](./list/CORS.md)
+
 
 
 ### 3. 네트워크 강의
