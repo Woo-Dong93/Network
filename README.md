@@ -25,6 +25,10 @@
 
 [7.TCP와 UDP의 특징과 차이](./list/TCP와-UDP의-특징과-차이.md)
 
+[8.Cookie vs Session](./list/Cookie-vs-Session.md)
+
+[9.JWT](./list/JWT.md)
+
 
 
 ### 3. 네트워크 강의

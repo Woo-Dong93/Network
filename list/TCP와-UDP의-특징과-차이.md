@@ -1,6 +1,6 @@
 # TCP와 UDP의 특징과 차이
 
-### 1. TCP**(Transmission Control Protocol)**
+### 1. TCP(Transmission Control Protocol)
 
 - 인터넷상에서 데이터를 메세지의 형태로 보내기 위해 IP와 함께 사용하는 프로토콜
 - 일반적으로 TCP와 IP를 함께 사용하는데, IP가 데이터의 배달을 처리한다면 TCP는 **패킷을 추적 및 관리**하게 됩니다. 
