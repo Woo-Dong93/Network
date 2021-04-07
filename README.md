@@ -23,6 +23,8 @@
 
 [6.CORS](./list/CORS.md)
 
+[7.TCP와 UDP의 특징과 차이](./list/TCP와-UDP의-특징과-차이.md)
+
 
 
 ### 3. 네트워크 강의
