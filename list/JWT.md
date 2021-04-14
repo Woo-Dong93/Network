@@ -280,3 +280,7 @@ console.log('signature: ',signature); //WE5fMufM0NDSVGJ8cAolXGkyB5RmYwCto1pQwDIq
 
 
 
+### 참고
+
+- https://velopert.com/2389
+- https://tansfil.tistory.com/58
